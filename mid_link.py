@@ -60,6 +60,3 @@ def findMid(ll):
         
         return slow
 
-#        v
-# [1, 2, 3, 4]
-#     ^
